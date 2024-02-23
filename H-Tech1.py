@@ -29,7 +29,7 @@ print('\n\033[1;31m Cheking Server...');time.sleep(3)
 print('\n\033[1;32m Please Follow Me');time.sleep(1)
 os.system('xdg-open  https://www.facebook.com/kanokwan.plengien')
  
-logo=("""                                                                                 
+logo=                                                                      
 
 ╭╮╱╭┳━━━┳━━━┳━━━┳━━━┳━╮╱╭╮
 ┃┃╱┃┃╭━╮┃╭━╮┃╭━╮┃╭━╮┃┃╰╮┃┃
